@@ -1,0 +1,27 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "A Node Js API",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumarandena/nodeapi.git"
+  },
+  "keywords": [
+    "node",
+    "api"
+  ],
+  "author": "kumarandena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumarandena/nodeapi/issues"
+  },
+  "homepage": "https://github.com/kumarandena/nodeapi#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
