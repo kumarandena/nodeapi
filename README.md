@@ -1,1 +1,4 @@
-# nodeapi
+# Node JS API Development
+
+* Creating server with express
+* Separating routes
