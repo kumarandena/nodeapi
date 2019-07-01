@@ -2,3 +2,5 @@
 
 * Creating server with express
 * Separating routes
+* Middleware
+* Controllers
